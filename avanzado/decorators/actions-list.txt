@@ -1,0 +1,2 @@
+{'name': 'Carlos', 'actions': 'rastrear'}
+{'name': 'Ana', 'actions': 'registrar'}
